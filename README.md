@@ -1,6 +1,6 @@
 ## Hi there my name is Costas
 
-🔨UNDER CONSTRUCTION🔨
+<p align="left">A tech enthusiast who likes exploring the world of programming languages such as Java, JavaScript and Dart, with a solid foundation in Java and the essential technologies and frameworks. Familiar with version control systems like Git. Currently diving into Flutter and Dart to expand my skill set further. Interested to work in an agile environment and to participate actively in scrum ceremonies.</p>
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter and Dart<br>🎯 Goals: To find a remote jod 🎲 </p>
 
