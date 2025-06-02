@@ -1,6 +1,6 @@
 ## Hi there my name is Costas
 
-<p align="left">A tech enthusiast enjoy learing who things work. 2+ years hands on experience in Java Spring Boot and Dart Flutter. Currently working on my first mobile appliaction, MedAlert is in the phase of close testing for publish in Google PlayStore. Interested to work in an agile environment and to participate actively in scrum ceremonies.</p>
+<p align="left">A tech enthusiast, enjoy learing how things work. 2+ years hands on experience in Java Spring Boot and Dart Flutter. Currently working on my first mobile appliaction, MedAlert is in the phase of close testing for publish in Google PlayStore. Interested to work in an agile environment and to participate actively in scrum ceremonies.</p>
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Gemini integration and AI agents<br>🎯 Goals: Become a Flutter specialist. 🎲 </p>
 
