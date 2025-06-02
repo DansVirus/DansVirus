@@ -1,8 +1,8 @@
 ## Hi there my name is Costas
 
-<p align="left">A tech enthusiast who likes exploring the world of programming languages such as Java, JavaScript and Dart, with a solid foundation in Java and the essential technologies and frameworks. Familiar with version control systems like Git. Currently diving into Flutter and Dart to expand my skill set further. Interested to work in an agile environment and to participate actively in scrum ceremonies.</p>
+<p align="left">A tech enthusiast enjoy learing who things work. 2+ years hands on experience in Java Spring Boot and Dart Flutter. Currently working on my first mobile appliaction, MedAlert is in the phase of close testing for publish in Google PlayStore. Interested to work in an agile environment and to participate actively in scrum ceremonies.</p>
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter and Dart<br>🎯 Goals: Become a Flutter specialist. To find a remote jod 🎲 </p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Gemini integration and AI agents<br>🎯 Goals: Become a Flutter specialist. 🎲 </p>
 
 ##
 
